@@ -1,2 +1,2 @@
 # PythonTest
-This repository include my all Python test. 
+This is a test for my first use of Git
